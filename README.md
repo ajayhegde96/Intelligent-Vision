@@ -1,4 +1,4 @@
-# Bike-Zone
+# Intelligent-Vision
 An image classifier that can classify images pertaining to the following categories: 
 *    airplane
 *    automobile
@@ -18,6 +18,8 @@ It uses the CIFAR-10 data set for training. This is Project-2 of Udacity's Deep 
 3. Pandas
 4. Matplotlib
 5. sk-learn
+6. os
+7. tqdm
 
 Install all requirements using:
 ``pip install -r requirements.txt``
