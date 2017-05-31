@@ -12,13 +12,13 @@ An image classifier that can classify images pertaining to the following categor
 *    truck
 
 
-It uses the CIFAR-10 data set for training, and uses a convolutional network (along with a few fully connected network) as its basic architecture. This is Project-2 of Udacity's Deep Learning Foundations Nanodegree.
+It uses the CIFAR-10 data set for training, and uses a convolutional network (along with a few fully connected layers) as its basic architecture. This is Project-2 of Udacity's Deep Learning Foundations Nanodegree.
 
 ## Dependencies
 1. Jupyter Notebook
 2. Numpy
 3. Pandas
-4. Matplotlib
+4. Tensorflow
 5. sk-learn
 6. os
 7. tqdm
